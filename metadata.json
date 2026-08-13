@@ -1,0 +1,6 @@
+{
+  "name": "MeetMind — Real-Time Meeting Assistant",
+  "description": "Real-time speech transcription, live meeting audio streaming, and Gemini AI meeting intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
